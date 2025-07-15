@@ -24,10 +24,13 @@ Analyze if there is any seasonal pattern in the demand/ sales.
 Analyze demographic locations and shipping information of the stores
 
 ## Power BI Dashboard
-<img width="1321" height="741" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/b9eae309-771f-48da-8a02-2f76a290b857" />
+
+<img width="1321" height="741" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/74001a74-23dd-46b1-8fc9-4fd0571147b7" />
+
 
 ## Excel Dashboard
-<img width="1211" height="509" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/424d2a1b-14d5-4a2a-9ab1-63d0acc61684" />
+
+<img width="1211" height="509" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/98348b09-bdb2-40b1-a97e-85b5fa95341b" />
 
 
 ## Conclusion
